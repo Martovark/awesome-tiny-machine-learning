@@ -52,6 +52,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[TinyZero](https://github.com/Jiayi-Pan/TinyZero)** - Minimal reproduction of DeepSeek R1-Zero.
 
 ## C
+- **[agent-c](https://github.com/bravenewxyz/agent-c)** - A ultra-lightweight AI agent written in C that communicates with OpenRouter API and executes shell commands.
 - **[miniaudio](https://github.com/mackron/miniaudio)** - Audio playback and capture library written in C, in a single source file.
 - **[printf](https://github.com/mpaland/printf)** - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems.
 - **[tiny-AES-c](https://github.com/kokke/tiny-AES-c)** - Small portable AES128/192/256 in C.
