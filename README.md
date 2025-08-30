@@ -34,6 +34,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 ## 🤗 Huggingface
 - **[nanotron](https://github.com/huggingface/nanotron)** - Minimalistic large language model 3D-parallelism training.
 - **[nanoVLM](https://github.com/huggingface/nanoVLM)** - The simplest, fastest repository for training/finetuning small-sized VLMs.
+- **[picotron](https://github.com/huggingface/picotron)** - The minimalist & most-hackable repository for pre-training Llama-like models with 4D Parallelism. It is designed with simplicity and **educational** purposes in mind.
 - **[smolagents](https://github.com/huggingface/smolagents)** - A barebones library for agents that think in code.
 - **[smol-course](https://github.com/huggingface/smol-course)** - A course on aligning smol models.
 - **[smollm](https://github.com/huggingface/smollm)** - Everything about the SmolLM and SmolVLM family of models.
