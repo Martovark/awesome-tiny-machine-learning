@@ -42,6 +42,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 ## ML
 - **[micro_diffusion](https://github.com/SonyResearch/micro_diffusion)** - Micro-budget training of large-scale diffusion models.
 - **[minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion)** - A minimal implementation of diffusion model for text generation. Also contains a basic list of papers/blogs/videos for a deeper dive into diffusion models.
+- **[minimind](https://github.com/jingyaogong/minimind/blob/master/README_en.md)** - Project aims to train a super-small language model MiniMind with only 3 RMB cost and 2 hours, starting completely from scratch.
 - **[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)** - The 100 line AI agent that solves GitHub issues or helps you in your command line.
 - **[modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)** - NanoGPT (124M) in 3 minutes on 8xH100.
 - **[modded-nanogpt-rwkv](https://github.com/BlinkDL/modded-nanogpt-rwkv)** - Modified variant of nanoGPT for RWKV.
@@ -55,6 +56,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 ## C
 - **[agent-c](https://github.com/bravenewxyz/agent-c)** - A ultra-lightweight AI agent written in C that communicates with OpenRouter API and executes shell commands.
 - **[miniaudio](https://github.com/mackron/miniaudio)** - Audio playback and capture library written in C, in a single source file.
+- **[nanoMPI](https://github.com/Quentin-Anthony/nanoMPI)** - A minimal MPI Implementation loosely based on OpenMPI. nanoMPI allows beginners to the field of distributed computing to quickly see answers to questions like "how is a ring allreduce implemented?"
 - **[printf](https://github.com/mpaland/printf)** - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems.
 - **[tiny-AES-c](https://github.com/kokke/tiny-AES-c)** - Small portable AES128/192/256 in C.
 
