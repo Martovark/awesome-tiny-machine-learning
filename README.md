@@ -30,6 +30,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[minGPT](https://github.com/karpathy/minGPT)** - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training.
 - **[nanoGPT](https://github.com/karpathy/nanoGPT)** - The simplest, fastest repository for training/finetuning medium-sized GPT.
 - **[nano-llama31](https://github.com/karpathy/nano-llama31)** - nanoGPT style version of Llama 3.1.
+- **[nanochat](https://github.com/karpathy/nanochat)** - The best ChatGPT that $100 can buy.
 
 ## 🤗 Huggingface
 - **[nanotron](https://github.com/huggingface/nanotron)** - Minimalistic large language model 3D-parallelism training.
@@ -38,6 +39,10 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[smolagents](https://github.com/huggingface/smolagents)** - A barebones library for agents that think in code.
 - **[smol-course](https://github.com/huggingface/smol-course)** - A course on aligning smol models.
 - **[smollm](https://github.com/huggingface/smollm)** - Everything about the SmolLM and SmolVLM family of models.
+
+## PyTorch Foundation
+- **[gpt-fast](https://github.com/meta-pytorch/gpt-fast)** - Simple and efficient pytorch-native transformer text generation. LLaMA like, gptq, tensor parallelism, spec decoding, ...
+- **[segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast)** -  Segment Anything over 8x using only pure, native PyTorch.
 
 ## ML
 - **[micro_diffusion](https://github.com/SonyResearch/micro_diffusion)** - Micro-budget training of large-scale diffusion models.
