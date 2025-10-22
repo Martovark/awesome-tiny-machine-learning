@@ -14,6 +14,8 @@ A curated collection of github projects with tiny code base. Most of them are pr
 
 - [Andrej Karpathy](#andrej-karpathy)
 - [🤗 Huggingface](#huggingface-)
+- [PyTorch Foundation](#pytorch)
+- [Diffusion models](#diffusion)
 - [ML](#ml)
 - [C](#c)
 - [Go](#go)
@@ -44,9 +46,12 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[gpt-fast](https://github.com/meta-pytorch/gpt-fast)** - Simple and efficient pytorch-native transformer text generation. LLaMA like, gptq, tensor parallelism, spec decoding, ...
 - **[segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast)** -  Segment Anything over 8x using only pure, native PyTorch.
 
-## ML
-- **[micro_diffusion](https://github.com/SonyResearch/micro_diffusion)** - Micro-budget training of large-scale diffusion models.
+## Diffusion models
+- **[diffusion-gpt](https://github.com/ash80/diffusion-gpt)** - An annotated implementation of a character-level disrete diffusion model for text generation. Inspired by nanoGPT.
+- **[micro_diffusion](https://github.com/SonyResearch/micro_diffusion)** - Micro-budget training of large-scale diffusion models by Sony Research.
 - **[minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion)** - A minimal implementation of diffusion model for text generation. Also contains a basic list of papers/blogs/videos for a deeper dive into diffusion models.
+
+## ML
 - **[minimind](https://github.com/jingyaogong/minimind/blob/master/README_en.md)** - Project aims to train a super-small language model MiniMind with only 3 RMB cost and 2 hours, starting completely from scratch.
 - **[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)** - The 100 line AI agent that solves GitHub issues or helps you in your command line.
 - **[modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)** - NanoGPT (124M) in 3 minutes on 8xH100.
