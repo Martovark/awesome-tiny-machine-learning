@@ -12,12 +12,12 @@ A curated collection of github projects with tiny code base. Most of them are pr
 <!-- omit from toc -->
 ## Contents
 - [Andrej Karpathy](#andrej-karpathy)
-- [Diffusion models](#diffusion)
-- [🤗 Huggingface](#huggingface-)
-- [Inference engines](#inference)
-- [PyTorch Foundation](#pytorch)
-- [Reinforcement learning](#rl)
-- [Tabular ML](#tabular)
+- [Diffusion models](#diffusion-models)
+- [🤗Huggingface](#huggingface)
+- [Inference engines](#inference-engines)
+- [PyTorch Foundation](#pytorch-foundation)
+- [Reinforcement learning](#reinforcement-learning)
+- [Tabular ML](#tabular-ml)
 - [ML](#ml)
 - [C](#c)
 - [Go](#go)
@@ -41,7 +41,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[micro_diffusion](https://github.com/SonyResearch/micro_diffusion)** - Micro-budget training of large-scale diffusion models by Sony Research.
 - **[minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion)** - A minimal implementation of diffusion model for text generation. Also contains a basic list of papers/blogs/videos for a deeper dive into diffusion models.
 
-### 🤗 Huggingface
+### 🤗Huggingface
 - **[nanotron](https://github.com/huggingface/nanotron)** - Minimalistic large language model 3D-parallelism training.
 - **[nanoVLM](https://github.com/huggingface/nanoVLM)** - The simplest, fastest repository for training/finetuning small-sized VLMs.
 - **[picotron](https://github.com/huggingface/picotron)** - The minimalist & most-hackable repository for pre-training Llama-like models with 4D Parallelism. It is designed with simplicity and **educational** purposes in mind.
