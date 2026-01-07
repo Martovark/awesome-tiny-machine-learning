@@ -50,6 +50,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[smollm](https://github.com/huggingface/smollm)** - Everything about the SmolLM and SmolVLM family of models.
 
 ### Inference engines
+- **[mini-sglang](https://github.com/sgl-project/mini-sglang)** - Mini-Sglang by sgl-project.
 - **[nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)** - A lightweight vLLM implementation built from scratch.
 - **[tokasaurus](https://github.com/ScalingIntelligence/tokasaurus)** - LLM inference engine optimized for throughput-intensive workloads. On throughput-focused benchmarks, Tokasaurus can outperform vLLM and SGLang by up to 3x+.
 
