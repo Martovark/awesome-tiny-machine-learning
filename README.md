@@ -79,6 +79,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 
 ### C
 - **[agent-c](https://github.com/bravenewxyz/agent-c)** - A ultra-lightweight AI agent written in C that communicates with OpenRouter API and executes shell commands.
+- **[flux2.c](https://github.com/antirez/flux2.c)** - FLUX.2-klein-4B Pure C Implementation. Zero external dependencies beyond the C standard library. By the creator of redis + Claude.
 - **[miniaudio](https://github.com/mackron/miniaudio)** - Audio playback and capture library written in C, in a single source file.
 - **[nanoMPI](https://github.com/Quentin-Anthony/nanoMPI)** - A minimal MPI Implementation loosely based on OpenMPI. nanoMPI allows beginners to the field of distributed computing to quickly see answers to questions like "how is a ring allreduce implemented?"
 - **[printf](https://github.com/mpaland/printf)** - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems.
