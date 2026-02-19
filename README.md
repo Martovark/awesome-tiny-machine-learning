@@ -15,10 +15,12 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - [Diffusion models](#diffusion-models)
 - [🤗Huggingface](#huggingface)
 - [Inference engines](#inference-engines)
+- [LLMs](#llms)
 - [PyTorch Foundation](#pytorch-foundation)
 - [Reinforcement learning](#reinforcement-learning)
 - [Tabular ML](#tabular-ml)
 - [ML](#ml)
+- [ML & CyberSec](#ml--cybersec)
 - [C](#c)
 - [Go](#go)
 - [Rust](#rust)
@@ -50,9 +52,17 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[smollm](https://github.com/huggingface/smollm)** - Everything about the SmolLM and SmolVLM family of models.
 
 ### Inference engines
+- **[flex-nano-vllm](https://github.com/changjonathanc/flex-nano-vllm)** - FlexAttention based, minimal vllm-style inference engine for fast Gemma 2 inference.
 - **[mini-sglang](https://github.com/sgl-project/mini-sglang)** - Mini-Sglang by sgl-project.
 - **[nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)** - A lightweight vLLM implementation built from scratch.
 - **[tokasaurus](https://github.com/ScalingIntelligence/tokasaurus)** - LLM inference engine optimized for throughput-intensive workloads. On throughput-focused benchmarks, Tokasaurus can outperform vLLM and SGLang by up to 3x+.
+
+### LLMs
+- **[minimind](https://github.com/jingyaogong/minimind/blob/master/README_en.md)** - Project aims to train a super-small language model MiniMind with only 3 RMB cost and 2 hours, starting completely from scratch.
+- **[modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)** - NanoGPT (124M) in 3 minutes on 8xH100.
+- **[modded-nanogpt-rwkv](https://github.com/BlinkDL/modded-nanogpt-rwkv)** - Modified variant of nanoGPT for RWKV.
+- **[nanoMoE](https://github.com/wolfecameron/nanoMoE)** - The simplest, fastest repository for training/finetuning medium-sized MoE-based GPTs. Also, an awesome [post](https://cameronrwolfe.substack.com/p/nano-moe) by the author about MoE.
+- **[nanoT5](https://github.com/PiotrNawrot/nanoT5)** - Fast & Simple repository for pre-training and fine-tuning T5-style models.
 
 ### PyTorch Foundation
 - **[gpt-fast](https://github.com/meta-pytorch/gpt-fast)** - Simple and efficient pytorch-native transformer text generation. LLaMA like, gptq, tensor parallelism, spec decoding, etc.
@@ -68,14 +78,13 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[nanoTabPFN](https://github.com/automl/nanoTabPFN)** - Train your own small [TabPFN](https://github.com/PriorLabs/TabPFN) in less than 500 LOC and a few minutes. The purpose of this repository is to be a good starting point for students and researchers that are interested in learning about how TabPFN works under the hood.
 
 ### ML
-- **[minimind](https://github.com/jingyaogong/minimind/blob/master/README_en.md)** - Project aims to train a super-small language model MiniMind with only 3 RMB cost and 2 hours, starting completely from scratch.
 - **[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)** - The 100 line AI agent that solves GitHub issues or helps you in your command line.
-- **[modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)** - NanoGPT (124M) in 3 minutes on 8xH100.
-- **[modded-nanogpt-rwkv](https://github.com/BlinkDL/modded-nanogpt-rwkv)** - Modified variant of nanoGPT for RWKV.
 - **[nano-graphrag](https://github.com/gusye1234/nano-graphrag?tab=readme-ov-file)** - A simple, easy-to-hack GraphRAG implementation.
-- **[nanoT5](https://github.com/PiotrNawrot/nanoT5)** - Fast & Simple repository for pre-training and fine-tuning T5-style models.
 - **[tinygrad](https://github.com/tinygrad/tinygrad)** - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - **[tinyvector](https://github.com/0hq/tinyvector)** - A tiny nearest-neighbor embedding database built with SQLite and Pytorch.
+
+### ML & CyberSec
+- **[subwiz](https://github.com/hadriansecurity/subwiz)** - nanoGPT based model, trained to discover subdomains.
 
 ### C
 - **[agent-c](https://github.com/bravenewxyz/agent-c)** - A ultra-lightweight AI agent written in C that communicates with OpenRouter API and executes shell commands.
