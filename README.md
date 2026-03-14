@@ -71,7 +71,9 @@ A curated collection of github projects with tiny code base. Most of them are pr
 
 ### Reinforcement learning
 - **[Mini-R1](https://www.philschmid.de/mini-deepseek-r1)** - Minimal reproduction of DeepSeek R1-Zero. Code built upon [trl](https://github.com/huggingface/trl).
+- **[minimalRL](https://github.com/seungeunrho/minimalRL)** - Implementations of basic RL algorithms with minimal lines of codes.
 - **[nano-aha-moment](https://github.com/McGill-NLP/nano-aha-moment)** - Inspired by [TinyZero](https://github.com/Jiayi-Pan/TinyZero) and [Mini-R1](https://www.philschmid.de/mini-deepseek-r1), but designed to be much simpler, cleaner, and faster, with every line of code visible and understandable.
+- **[nanoRLHF](https://github.com/hyunwoongko/nanoRLHF)** - This project aims to perform RLHF training from scratch, implementing almost all core components manually except for PyTorch and Triton.
 - **[TinyZero](https://github.com/Jiayi-Pan/TinyZero)** - Minimal reproduction of DeepSeek R1-Zero. Code built upon [verl](https://github.com/volcengine/verl).
 
 ### Tabular ML
