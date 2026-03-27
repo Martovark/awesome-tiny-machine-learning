@@ -63,6 +63,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[modded-nanogpt-rwkv](https://github.com/BlinkDL/modded-nanogpt-rwkv)** - Modified variant of nanoGPT for RWKV.
 - **[nanoMoE](https://github.com/wolfecameron/nanoMoE)** - The simplest, fastest repository for training/finetuning medium-sized MoE-based GPTs. Also, an awesome [post](https://cameronrwolfe.substack.com/p/nano-moe) by the author about MoE.
 - **[nanoT5](https://github.com/PiotrNawrot/nanoT5)** - Fast & Simple repository for pre-training and fine-tuning T5-style models.
+- **[parameter-golf](https://github.com/openai/parameter-golf)** - OpenAI Model Craft Challenge: train the best language model that fits in a 16MB artifact and trains in under 10 minutes on 8xH100s.
 
 ### PyTorch Foundation
 - **[gpt-fast](https://github.com/meta-pytorch/gpt-fast)** - Simple and efficient pytorch-native transformer text generation. LLaMA like, gptq, tensor parallelism, spec decoding, etc.
