@@ -13,18 +13,17 @@ A curated collection of github projects with tiny code base. Most of them are pr
 ## Contents
 - [Andrej Karpathy](#andrej-karpathy)
 - [Diffusion models](#diffusion-models)
+- [GPU](#gpu)
 - [🤗Huggingface](#huggingface)
 - [Inference engines](#inference-engines)
 - [LLMs](#llms)
 - [PyTorch Foundation](#pytorch-foundation)
+- [RecSys](#recsys)
 - [Reinforcement learning](#reinforcement-learning)
 - [Tabular ML](#tabular-ml)
 - [ML](#ml)
 - [ML & CyberSec](#ml--cybersec)
 - [C](#c)
-- [Go](#go)
-- [Rust](#rust)
-- [Python](#python)
 - [Low-level](#low-level)
 
 ### Andrej Karpathy
@@ -42,6 +41,10 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[diffusion-gpt](https://github.com/ash80/diffusion-gpt)** - An annotated implementation of a character-level disrete diffusion model for text generation. Inspired by nanoGPT.
 - **[micro_diffusion](https://github.com/SonyResearch/micro_diffusion)** - Micro-budget training of large-scale diffusion models by Sony Research.
 - **[minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion)** - A minimal implementation of diffusion model for text generation. Also contains a basic list of papers/blogs/videos for a deeper dive into diffusion models.
+
+### GPU
+- **[penny](https://github.com/SzymonOzog/Penny)** - hand-written gpu communication lib (nccl).
+- **[tiny-gpu](https://github.com/adam-maj/tiny-gpu)** - A minimal GPU design in Verilog to learn how GPUs work from the ground up.
 
 ### 🤗Huggingface
 - **[nanotron](https://github.com/huggingface/nanotron)** - Minimalistic large language model 3D-parallelism training.
@@ -70,6 +73,9 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[LeanRL](https://github.com/meta-pytorch/LeanRL)** - LeanRL is a fork of [CleanRL](https://github.com/vwxyzjn/cleanrl) where hand-picked scripts have been re-written using PyTorch 2 features, mainly [torch.compile](https://docs.pytorch.org/tutorials/intermediate/torch_compile_tutorial.html) and [cudagraphs](https://pytorch.org/blog/accelerating-pytorch-with-cuda-graphs/).
 - **[segment-anything-fast](https://github.com/meta-pytorch/segment-anything-fast)** -  Segment Anything over 8x using only pure, native PyTorch.
 
+### RecSys
+- **[MiniOneRec](https://github.com/AkaliKong/MiniOneRec)** - Minimal reproduction of OneRec.
+
 ### Reinforcement learning
 - **[Mini-R1](https://www.philschmid.de/mini-deepseek-r1)** - Minimal reproduction of DeepSeek R1-Zero. Code built upon [trl](https://github.com/huggingface/trl).
 - **[minimalRL](https://github.com/seungeunrho/minimalRL)** - Implementations of basic RL algorithms with minimal lines of codes.
@@ -94,21 +100,6 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[flux2.c](https://github.com/antirez/flux2.c)** - FLUX.2-klein-4B Pure C Implementation. Zero external dependencies beyond the C standard library. By the creator of redis + Claude.
 - **[miniaudio](https://github.com/mackron/miniaudio)** - Audio playback and capture library written in C, in a single source file.
 - **[nanoMPI](https://github.com/Quentin-Anthony/nanoMPI)** - A minimal MPI Implementation loosely based on OpenMPI. nanoMPI allows beginners to the field of distributed computing to quickly see answers to questions like "how is a ring allreduce implemented?"
-- **[printf](https://github.com/mpaland/printf)** - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems.
-- **[tiny-AES-c](https://github.com/kokke/tiny-AES-c)** - Small portable AES128/192/256 in C.
-
-### Go
-- **[minikeyvalue](https://github.com/geohot/minikeyvalue)** - A distributed key value store in under 1000 lines.
-- **[tinykv](https://github.com/talent-plan/tinykv)** - A course to build distributed key-value service based on TiKV model.
-
-### Rust
-- **[microsandbox](https://github.com/microsandbox/microsandbox)** - Self-Hosted Platform for Secure Execution of Untrusted User/AI Code.
-- **[mini-redis](https://github.com/tokio-rs/mini-redis)** - Incomplete Redis client and server implementation using Tokio - for learning purposes only.
-- **[mini-lsm](https://github.com/skyzh/mini-lsm)** - A course of building an LSM-Tree storage engine (database) in a week.
-
-### Python
-- **[tinychain](https://github.com/jamesob/tinychain)** - A pocket-sized implementation of Bitcoin.
 
 ### Low-level
-- **[tiny-gpu](https://github.com/adam-maj/tiny-gpu)** - A minimal GPU design in Verilog to learn how GPUs work from the ground up.
 - **[tiny-tpu](https://github.com/tiny-tpu-v2/tiny-tpu)** - A minimal tensor processing unit (TPU), inspired by Google's TPU V2 and V1.
