@@ -58,6 +58,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[flex-nano-vllm](https://github.com/changjonathanc/flex-nano-vllm)** - FlexAttention based, minimal vllm-style inference engine for fast Gemma 2 inference.
 - **[mini-sglang](https://github.com/sgl-project/mini-sglang)** - Mini-Sglang by sgl-project.
 - **[nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)** - A lightweight vLLM implementation built from scratch.
+- **[tiny-vllm](https://github.com/jmaczan/tiny-vllm)** - You're going to build a high performance LLM inference engine with C++ and CUDA.
 - **[tokasaurus](https://github.com/ScalingIntelligence/tokasaurus)** - LLM inference engine optimized for throughput-intensive workloads. On throughput-focused benchmarks, Tokasaurus can outperform vLLM and SGLang by up to 3x+.
 
 ### LLMs
@@ -66,6 +67,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[modded-nanogpt-rwkv](https://github.com/BlinkDL/modded-nanogpt-rwkv)** - Modified variant of nanoGPT for RWKV.
 - **[nanoMoE](https://github.com/wolfecameron/nanoMoE)** - The simplest, fastest repository for training/finetuning medium-sized MoE-based GPTs. Also, an awesome [post](https://cameronrwolfe.substack.com/p/nano-moe) by the author about MoE.
 - **[nanoT5](https://github.com/PiotrNawrot/nanoT5)** - Fast & Simple repository for pre-training and fine-tuning T5-style models.
+- **[needle](https://github.com/cactus-compute/needle)** - Distillation Gemini 3.1 into a 26m parameter model. It works especially well with function calling.
 - **[parameter-golf](https://github.com/openai/parameter-golf)** - OpenAI Model Craft Challenge: train the best language model that fits in a 16MB artifact and trains in under 10 minutes on 8xH100s.
 
 ### PyTorch Foundation
