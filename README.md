@@ -68,6 +68,7 @@ A curated collection of github projects with tiny code base. Most of them are pr
 - **[nanoMoE](https://github.com/wolfecameron/nanoMoE)** - The simplest, fastest repository for training/finetuning medium-sized MoE-based GPTs. Also, an awesome [post](https://cameronrwolfe.substack.com/p/nano-moe) by the author about MoE.
 - **[nanoT5](https://github.com/PiotrNawrot/nanoT5)** - Fast & Simple repository for pre-training and fine-tuning T5-style models.
 - **[needle](https://github.com/cactus-compute/needle)** - Distillation Gemini 3.1 into a 26m parameter model. It works especially well with function calling.
+- **[nmoe](https://github.com/Noumena-Network/nmoe)** - MoE trainer that does single-node expert parallelism via RDEP (direct NVLink/IPC dispatch) instead of tensor parallel or NCCL all-to-all.
 - **[parameter-golf](https://github.com/openai/parameter-golf)** - OpenAI Model Craft Challenge: train the best language model that fits in a 16MB artifact and trains in under 10 minutes on 8xH100s.
 
 ### PyTorch Foundation
